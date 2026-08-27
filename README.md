@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">𝗞𝗛𝗔𝗡-𝗠𝗗</h1>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">𝔻𝔸ℝ𝕂-ℍ𝔸ℂ𝕂𝔼ℝ </h1>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 ---
 
-## Support JawadTechXD
+## Support 𝔻𝔸ℝ𝕂 𝕋𝕖𝕒𝕔𝕙  
 
 <p align="center">
   <a href="https://github.com/JawadTechXD">
@@ -191,7 +191,7 @@
   <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
-## 👑 KHAN STATUS
+## 👑 DARK HACKER STATUS
 
 ```diff
 + Project Status: Active
