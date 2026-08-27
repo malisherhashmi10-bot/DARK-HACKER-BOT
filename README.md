@@ -1,4 +1,4 @@
-<p align="center">
+o<p align="center">
   <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">𝔻𝔸ℝ𝕂-ℍ𝔸ℂ𝕂𝔼ℝ </h1>
 </p>
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 📊 Project Stats
+📊 Project Stats
 
 <div align="center">
 
